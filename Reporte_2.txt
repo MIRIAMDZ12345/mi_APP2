@@ -1,5 +1,5 @@
 <inicio>
-
+0 validar que solo sean peticiones in lima
 1 obtener gastos del cliente del último mes
 2 obetener el detalle del gasto
 3 istar dettae en objeto
