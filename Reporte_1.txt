@@ -1,4 +1,5 @@
 <inicio>
+0 validar que solo sean peticiones in lima
 1 obetener transaccines de ciente
 2 obetener e detae de as tx
 3 istar dettae en objeto
